@@ -1,2 +1,3 @@
 # hello-world
 My intro to GitHub
+This has been a long journey, from student to soldier to teacher and now...
